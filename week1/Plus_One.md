@@ -1,0 +1,46 @@
+# Plus One
+### Sulution code:
+```
+public class Solution {
+    public int[] plusOne(int[] digits) {
+        if (digits == null || digits.length == 0) {
+          int[] result = new int[1];
+          result[0] = 1;
+          return result;
+        }
+        
+        int carry = 1;
+        int sum = 0;
+        int[] result = new int[digits.length + 1];
+        for (int i = digits.length - 1; i >= 0; i--) {
+          sum = carry +  digits[i];
+          carry = (sum > 9) ? 1:0;
+          
+          sum = sum % 10;
+          
+          result[i + 1] = sum;
+          
+        }
+        
+        if (carry > 0) {
+         result[0] = carry + sum; 
+         return result;
+        }
+
+        int[] res = new int[digits.length];
+        for (int i = 0; i < res.length; i++){
+            res[i] = result[i+1];
+        }
+        return res;
+    }
+}
+```
+
+### Test case:
+```
+[]
+[0]
+[9]
+[1,9]
+[2,3,4]
+```
