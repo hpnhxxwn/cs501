@@ -41,7 +41,7 @@ public class Solution {
 ```
 
 ### Test case:
-`
+```
 []
 []
 ```
@@ -61,3 +61,5 @@ public class Solution {
 [1,3,5,6,7]
 [1,2,4,8]
 ```
+
+![pic](https://github.com/hpnhxxwn/cs501/blob/master/week2/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-06-10%20%E4%B8%8B%E5%8D%883.58.50.png?raw=true)
