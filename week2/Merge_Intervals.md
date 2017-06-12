@@ -55,3 +55,5 @@ public class Solution {
 ```
 [[1,3],[2,6],[8,10],[9,18]]
 ```
+
+![pic](https://github.com/hpnhxxwn/cs501/blob/master/week2/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-06-10%20%E4%B8%8B%E5%8D%8810.55.56.png?raw=true)
