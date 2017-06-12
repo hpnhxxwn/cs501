@@ -43,3 +43,5 @@ public class Solution {
 ```
 [4,3,2,1,0,1,2,3,4]
 ```
+
+![pic](https://github.com/hpnhxxwn/cs501/blob/master/week2/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-06-11%20%E4%B8%8A%E5%8D%8812.24.18.png?raw=true)
