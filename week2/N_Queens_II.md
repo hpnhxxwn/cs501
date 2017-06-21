@@ -52,3 +52,5 @@ public class Solution {
 ```
 5
 ```
+
+![pic](https://github.com/hpnhxxwn/cs501/blob/master/week2/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-06-13%20%E4%B8%8B%E5%8D%889.51.56.png?raw=true)
